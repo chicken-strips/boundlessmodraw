@@ -1,0 +1,11 @@
+{
+  "victory": "#Be Boundlessly happy and win!",
+  "loss": "You made me Boundlessly sad:(",
+  "victoryTriggers": [
+    "VICTORY"
+  ],
+  "lossTriggers": [
+    "GAME OVER",
+    "GAME END"
+  ]
+}
